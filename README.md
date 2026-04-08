@@ -1,4 +1,4 @@
-```md
+
 # Olá, meu nome é Rian Vitor
 
 ## 🚀 Desenvolvedor Backend | Estudante de ML, Engenharia de ML e MLOps
@@ -34,4 +34,3 @@
 
 ## 📫 Contato
 📧 **rvsatech@gmail.com**
-```
