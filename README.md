@@ -1,12 +1,12 @@
 # Olá, meu nome é Rian Vitor 👋
 
-## 🚀 Desenvolvedor Backend 
+## 🚀 Desenvolvedor de Software - Backend  
 
 🎓 Cursando **Sistemas de Informação**  
 💻 Experiência com **desenvolvimento de software**, **backend** e **administração de banco de dados**  
-📚 Estudando **Desenvolvimento Backend**, **Fundamentos de ML**, **Engenharia de ML** e **MLOps**
+📚 Estudando **Desenvolvimento Backend** e **Computação em Nuvem**
 
-💡 Meu objetivo é atuar como **desenvolvedor backend**, criando sistemas escaláveis e modernos, com **IA aplicada** para automação, análise e inteligência em aplicações.
+> 🔧 No backend, sou focado em **arquitetura**, **observabilidade**, **documentação**, **desenvolvimento ágil com IA**, **testabilidade**, **confiabilidade**, **performance**, **escalabilidade** e boas práticas de engenharia de software.
 
 ---
 
@@ -18,27 +18,33 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps / Ferramentas
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### Observabilidade
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Ferramentas
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## 🎯 Áreas de interesse
-- Desenvolvimento de Software com foco em Backend (Fundamentos, Arquitetura, Testes, Bancos de Dados, Segurança, Performance, DevOps e Observabilidade)
-- Machine Learning
+- Desenvolvimento de Software com foco em backend e computação em nuvem
 
 ---
 
