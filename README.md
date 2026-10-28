@@ -4,15 +4,10 @@ Information Systems student with a background in full-stack development and data
 
 🔍 **Open to internships** in SOC / security analysis, AppSec & DevSecOps, cloud security, infrastructure security or digital forensics.
 
-🧪 **My lab: [@Sentinelatech](https://github.com/Sentinelatech)**: security projects I test, analyze and document.
-
 ---
-
 ## 🔭 Now
 
-- 🎓 **[Hackers do Bem](https://hackersdobem.org.br/)** (MCTI · RNP · SENAI-SP) and **[Cisco Networking Academy](https://www.netacad.com/)**
-- 🕹️ Practicing on **[TryHackMe](https://tryhackme.com/)**
-- ☁️ Next: **cloud security on AWS** · 🔎 also drawn to **digital forensics**
+- 🎓 **[Hackers do Bem](https://hackersdobem.org.br/)** (MCTI · RNP · SENAI-SP), **[Cisco Networking Academy](https://www.netacad.com/)** and **[Fortinet NSE 1](https://training.fortinet.com/)**
 
 ## 🧰 Tooling
 
@@ -23,6 +18,7 @@ Information Systems student with a background in full-stack development and data
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C8A?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
